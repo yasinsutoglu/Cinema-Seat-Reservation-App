@@ -46,7 +46,7 @@ App(folder)
 
 - CSS /  Flex - Selectors etc.
 
-- JS / DOM Manipulation - Arrow Function - Events - Conditionals - Functions - Array Methods
+- JS / DOM Manipulation - Arrow Function - Events - Conditionals - Functions - Array Methods - Local Storage
 ### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS & JS

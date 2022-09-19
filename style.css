@@ -71,6 +71,11 @@ body{
     margin: 0 10px;
 }
 
+p.text{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
 p.text span{
     color:wheat;
 }
